@@ -1,0 +1,1 @@
+﻿Provider for a simulated Named Pipe device
